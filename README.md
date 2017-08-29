@@ -1,2 +1,3 @@
-# sparren-burcht
-Een open source avonturenkamer
+# Graphics
+
+Alle graphics voor de SparrenBurght
