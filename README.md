@@ -1,3 +1,3 @@
 # Graphics
 
-Alle graphics voor de SparrenBurght
+All graphics for the SparrenBurcht
